@@ -45,3 +45,7 @@ C:\Users\Abrar.Bhat\Documents\Visual Studio 2015\Projects\SportsStore\SportsStor
 C:\Users\Abrar.Bhat\Documents\Visual Studio 2015\Projects\SportsStore\SportsStore.WebUI\bin\System.Web.Mvc.xml
 C:\Users\Abrar.Bhat\Documents\Visual Studio 2015\Projects\SportsStore\SportsStore.WebUI\obj\Debug\SportsStore.WebUI.dll
 C:\Users\Abrar.Bhat\Documents\Visual Studio 2015\Projects\SportsStore\SportsStore.WebUI\obj\Debug\SportsStore.WebUI.pdb
+C:\Users\Abrar.Bhat\Documents\Visual Studio 2015\Projects\SportsStore\SportsStore.WebUI\bin\EntityFramework.dll
+C:\Users\Abrar.Bhat\Documents\Visual Studio 2015\Projects\SportsStore\SportsStore.WebUI\bin\EntityFramework.xml
+C:\Users\Abrar.Bhat\Documents\Visual Studio 2015\Projects\SportsStore\SportsStore.WebUI\bin\EntityFramework.SqlServer.dll
+C:\Users\Abrar.Bhat\Documents\Visual Studio 2015\Projects\SportsStore\SportsStore.WebUI\bin\EntityFramework.SqlServer.xml

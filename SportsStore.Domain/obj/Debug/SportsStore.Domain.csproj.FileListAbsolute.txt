@@ -16,3 +16,8 @@ c:\users\abrar.bhat\documents\visual studio 2015\Projects\SportsStore\SportsStor
 c:\users\abrar.bhat\documents\visual studio 2015\Projects\SportsStore\SportsStore.Domain\obj\Debug\SportsStore.Domain.dll
 c:\users\abrar.bhat\documents\visual studio 2015\Projects\SportsStore\SportsStore.Domain\obj\Debug\SportsStore.Domain.pdb
 C:\Users\Abrar.Bhat\Documents\Visual Studio 2015\Projects\SportsStore\SportsStore.Domain\obj\Debug\SportsStore.Domain.csprojResolveAssemblyReference.cache
+C:\Users\Abrar.Bhat\Documents\Visual Studio 2015\Projects\SportsStore\SportsStore.Domain\bin\Debug\SportsStore.Domain.dll.config
+C:\Users\Abrar.Bhat\Documents\Visual Studio 2015\Projects\SportsStore\SportsStore.Domain\bin\Debug\EntityFramework.dll
+C:\Users\Abrar.Bhat\Documents\Visual Studio 2015\Projects\SportsStore\SportsStore.Domain\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Abrar.Bhat\Documents\Visual Studio 2015\Projects\SportsStore\SportsStore.Domain\bin\Debug\EntityFramework.xml
+C:\Users\Abrar.Bhat\Documents\Visual Studio 2015\Projects\SportsStore\SportsStore.Domain\bin\Debug\EntityFramework.SqlServer.xml
