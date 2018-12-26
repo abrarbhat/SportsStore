@@ -1,4 +1,3 @@
-c:\users\abrar.bhat\documents\visual studio 2015\Projects\SportsStore\SportsStore.WebUI\obj\Debug\SportsStore.WebUI.csprojResolveAssemblyReference.cache
 C:\Users\Abrar.Bhat\Documents\Visual Studio 2015\Projects\SportsStore\SportsStore.WebUI\bin\roslyn\csc.exe
 C:\Users\Abrar.Bhat\Documents\Visual Studio 2015\Projects\SportsStore\SportsStore.WebUI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
 C:\Users\Abrar.Bhat\Documents\Visual Studio 2015\Projects\SportsStore\SportsStore.WebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
@@ -14,6 +13,8 @@ C:\Users\Abrar.Bhat\Documents\Visual Studio 2015\Projects\SportsStore\SportsStor
 C:\Users\Abrar.Bhat\Documents\Visual Studio 2015\Projects\SportsStore\SportsStore.WebUI\bin\SportsStore.WebUI.dll.config
 C:\Users\Abrar.Bhat\Documents\Visual Studio 2015\Projects\SportsStore\SportsStore.WebUI\bin\SportsStore.WebUI.dll
 C:\Users\Abrar.Bhat\Documents\Visual Studio 2015\Projects\SportsStore\SportsStore.WebUI\bin\SportsStore.WebUI.pdb
+C:\Users\Abrar.Bhat\Documents\Visual Studio 2015\Projects\SportsStore\SportsStore.WebUI\bin\EntityFramework.dll
+C:\Users\Abrar.Bhat\Documents\Visual Studio 2015\Projects\SportsStore\SportsStore.WebUI\bin\EntityFramework.SqlServer.dll
 C:\Users\Abrar.Bhat\Documents\Visual Studio 2015\Projects\SportsStore\SportsStore.WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
 C:\Users\Abrar.Bhat\Documents\Visual Studio 2015\Projects\SportsStore\SportsStore.WebUI\bin\Microsoft.Web.Infrastructure.dll
 C:\Users\Abrar.Bhat\Documents\Visual Studio 2015\Projects\SportsStore\SportsStore.WebUI\bin\Moq.dll
@@ -29,6 +30,8 @@ C:\Users\Abrar.Bhat\Documents\Visual Studio 2015\Projects\SportsStore\SportsStor
 C:\Users\Abrar.Bhat\Documents\Visual Studio 2015\Projects\SportsStore\SportsStore.WebUI\bin\System.Web.Webpages.Razor.dll
 C:\Users\Abrar.Bhat\Documents\Visual Studio 2015\Projects\SportsStore\SportsStore.WebUI\bin\WebActivator.dll
 C:\Users\Abrar.Bhat\Documents\Visual Studio 2015\Projects\SportsStore\SportsStore.WebUI\bin\SportsStore.Domain.pdb
+C:\Users\Abrar.Bhat\Documents\Visual Studio 2015\Projects\SportsStore\SportsStore.WebUI\bin\EntityFramework.xml
+C:\Users\Abrar.Bhat\Documents\Visual Studio 2015\Projects\SportsStore\SportsStore.WebUI\bin\EntityFramework.SqlServer.xml
 C:\Users\Abrar.Bhat\Documents\Visual Studio 2015\Projects\SportsStore\SportsStore.WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
 C:\Users\Abrar.Bhat\Documents\Visual Studio 2015\Projects\SportsStore\SportsStore.WebUI\bin\Moq.xml
 C:\Users\Abrar.Bhat\Documents\Visual Studio 2015\Projects\SportsStore\SportsStore.WebUI\bin\Ninject.pdb
@@ -43,9 +46,6 @@ C:\Users\Abrar.Bhat\Documents\Visual Studio 2015\Projects\SportsStore\SportsStor
 C:\Users\Abrar.Bhat\Documents\Visual Studio 2015\Projects\SportsStore\SportsStore.WebUI\bin\System.Web.Webpages.Razor.xml
 C:\Users\Abrar.Bhat\Documents\Visual Studio 2015\Projects\SportsStore\SportsStore.WebUI\bin\System.Web.Helpers.xml
 C:\Users\Abrar.Bhat\Documents\Visual Studio 2015\Projects\SportsStore\SportsStore.WebUI\bin\System.Web.Mvc.xml
+C:\Users\Abrar.Bhat\Documents\Visual Studio 2015\Projects\SportsStore\SportsStore.WebUI\obj\Debug\SportsStore.WebUI.csprojResolveAssemblyReference.cache
 C:\Users\Abrar.Bhat\Documents\Visual Studio 2015\Projects\SportsStore\SportsStore.WebUI\obj\Debug\SportsStore.WebUI.dll
 C:\Users\Abrar.Bhat\Documents\Visual Studio 2015\Projects\SportsStore\SportsStore.WebUI\obj\Debug\SportsStore.WebUI.pdb
-C:\Users\Abrar.Bhat\Documents\Visual Studio 2015\Projects\SportsStore\SportsStore.WebUI\bin\EntityFramework.dll
-C:\Users\Abrar.Bhat\Documents\Visual Studio 2015\Projects\SportsStore\SportsStore.WebUI\bin\EntityFramework.xml
-C:\Users\Abrar.Bhat\Documents\Visual Studio 2015\Projects\SportsStore\SportsStore.WebUI\bin\EntityFramework.SqlServer.dll
-C:\Users\Abrar.Bhat\Documents\Visual Studio 2015\Projects\SportsStore\SportsStore.WebUI\bin\EntityFramework.SqlServer.xml
