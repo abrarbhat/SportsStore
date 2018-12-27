@@ -14,7 +14,6 @@ C:\Users\Abrar.Bhat\Documents\Visual Studio 2015\Projects\SportsStore\SportsStor
 C:\Users\Abrar.Bhat\Documents\Visual Studio 2015\Projects\SportsStore\SportsStore.UnitTests\bin\Debug\SportsStore.UnitTests.dll.config
 C:\Users\Abrar.Bhat\Documents\Visual Studio 2015\Projects\SportsStore\SportsStore.UnitTests\bin\Debug\SportsStore.UnitTests.dll
 C:\Users\Abrar.Bhat\Documents\Visual Studio 2015\Projects\SportsStore\SportsStore.UnitTests\bin\Debug\SportsStore.UnitTests.pdb
-C:\Users\Abrar.Bhat\Documents\Visual Studio 2015\Projects\SportsStore\SportsStore.UnitTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
 C:\Users\Abrar.Bhat\Documents\Visual Studio 2015\Projects\SportsStore\SportsStore.UnitTests\bin\Debug\Microsoft.Web.Infrastructure.dll
 C:\Users\Abrar.Bhat\Documents\Visual Studio 2015\Projects\SportsStore\SportsStore.UnitTests\bin\Debug\Moq.dll
 C:\Users\Abrar.Bhat\Documents\Visual Studio 2015\Projects\SportsStore\SportsStore.UnitTests\bin\Debug\Ninject.dll
@@ -45,7 +44,6 @@ C:\Users\Abrar.Bhat\Documents\Visual Studio 2015\Projects\SportsStore\SportsStor
 C:\Users\Abrar.Bhat\Documents\Visual Studio 2015\Projects\SportsStore\SportsStore.UnitTests\bin\Debug\System.Web.WebPages.xml
 C:\Users\Abrar.Bhat\Documents\Visual Studio 2015\Projects\SportsStore\SportsStore.UnitTests\bin\Debug\System.Web.WebPages.Deployment.xml
 C:\Users\Abrar.Bhat\Documents\Visual Studio 2015\Projects\SportsStore\SportsStore.UnitTests\bin\Debug\System.Web.WebPages.Razor.xml
-C:\Users\Abrar.Bhat\Documents\Visual Studio 2015\Projects\SportsStore\SportsStore.UnitTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
 C:\Users\Abrar.Bhat\Documents\Visual Studio 2015\Projects\SportsStore\SportsStore.UnitTests\bin\Debug\EntityFramework.xml
 C:\Users\Abrar.Bhat\Documents\Visual Studio 2015\Projects\SportsStore\SportsStore.UnitTests\obj\Debug\SportsStore.UnitTests.dll
 C:\Users\Abrar.Bhat\Documents\Visual Studio 2015\Projects\SportsStore\SportsStore.UnitTests\obj\Debug\SportsStore.UnitTests.pdb
